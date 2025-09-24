@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Website Chat",
+  "version": "1.0",
+  "description": "Chat with others on the same website.",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "RedBerryLogo.png",
+    "48": "RedBerryLogo.png",
+    "128": "RedBerryLogo.png"
+  }
+}
